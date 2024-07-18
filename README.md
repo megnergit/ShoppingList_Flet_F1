@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-
+[Screenshot](./movie/nidanx4.mpr)
 
 
 ## Motivation
@@ -20,8 +20,9 @@ Commercial shopping lists are:
   1. one for usual stuff that we buy every week.
   2. one for the stuff that we buy this week only.
 
-  + The list 1. can be recycled in the next wek.
-  + The list 2. can be deleted in one go. We do not need to delete one item by one item. 
+
+  + The list i. can be recycled in the next wek.
+  + The list ii. can be deleted in one go. We do not need to delete one item by one item. 
   
 
 ## How to run
@@ -47,6 +48,7 @@ flet run --ios --port 8011
 ```
 
 '8011' can be any port number that you want to use.
+See [Flet official page](https://flet.dev/).
 
 -------------------------
-#END
+# END
