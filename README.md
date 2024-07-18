@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-[Screenshot](./movie/nidanx4.mpr)
+[Screenshot](./movie/nidanx4.gif)
 
 
 ## Motivation
